@@ -112,7 +112,7 @@ All SQL queries developed for this project are available in the `Analysis.sql` f
    - Populate tables with the sample data. Refer to the attached CSV files. 
 
 3. **Execute Queries**:
-   - Open `queries.sql` and execute the queries for analysis.
+   - Open `Analysis.sql` and execute the queries for analysis.
 
 ---
 
