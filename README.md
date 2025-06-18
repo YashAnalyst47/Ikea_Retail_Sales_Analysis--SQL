@@ -105,11 +105,11 @@ All SQL queries developed for this project are available in the `queries.sql` fi
 ### Steps to Run
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/ikea-sales-sql-project.git
+   git clone https://github.com/YashAnalyst47/Ikea_Retail_Sales_Analysis--SQL
    ```
 2. **Set Up the Database**:
-   - Run `schema.sql` to create the database schema.
-   - Populate tables with sample data using `data.sql`.
+   - Run `ikea_schemas.sql` to create the database schema.
+   - Populate tables with the sample data. Refer to the attached CSV files. 
 
 3. **Execute Queries**:
    - Open `queries.sql` and execute the queries for analysis.
