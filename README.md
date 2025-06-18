@@ -1,6 +1,6 @@
 # IKEA Retail Sales SQL Project
 
-![Project Banner Placeholder](https://github.com/najirh/sql-b01-ikea/blob/main/Ikea-logo.png)
+![Project Banner Placeholder](https://github.com/YashAnalyst47/Ikea_Retail_Sales_Analysis--SQL/blob/main/Ikea-logo.png)
 
 Welcome to the **IKEA Retail Sales SQL Project**! This project leverages a detailed dataset of millions of sales records, product inventory, and store information across IKEA's global operations. The analysis focuses on uncovering sales trends, product performance, and inventory management insights to assist in data-driven decision-making.
 
@@ -118,37 +118,10 @@ All SQL queries developed for this project are available in the `queries.sql` fi
 
 ## Questions & Feedback
 
-Feel free to reach out with questions or suggestions. Here's an example query for reference:
-
-### Example Query
-**Question**: Retrieve the total sales revenue for each store in a specific country.
-```sql
-SELECT 
-    s.store_name, 
-    SUM(sales.qty * sales.unit_price) AS total_revenue
-FROM 
-    sales
-JOIN 
-    stores s ON sales.store_id = s.store_id
-WHERE 
-    s.country = 'USA'
-GROUP BY 
-    s.store_name
-ORDER BY 
-    total_revenue DESC;
-```
-
----
-
-## Contact Me
-
-📧 **[Email](mailto:your.email@example.com)**  
-💼 **[LinkedIn](https://linkedin.com/in/yourprofile)**  
-
----
+Feel free to reach out with questions or suggestions.
 
 ## ERD (Entity-Relationship Diagram)
 
 Here’s the ERD for the IKEA Retail Sales SQL Project:
 
-![ERD Placeholder](https://github.com/najirh/sql-b01-ikea/blob/main/IKEA.png)
+![ERD Placeholder](https://github.com/YashAnalyst47/Ikea_Retail_Sales_Analysis--SQL/blob/main/ERD%20diagram.PNG)
