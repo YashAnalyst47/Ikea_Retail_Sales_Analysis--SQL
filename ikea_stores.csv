@@ -1,0 +1,105 @@
+﻿store_id,store_name,city,country
+IK-1,IKEA Hanoi,Hanoi,Vietnam
+IK-2,IKEA Anaheim,Anaheim,United States
+IK-3,IKEA Ashburn,Ashburn,United States
+IK-4,IKEA Atlanta,Atlanta,United States
+IK-5,IKEA Austin,Austin,United States
+IK-6,IKEA Boston,Boston,United States
+IK-7,IKEA Charlotte,Charlotte,United States
+IK-8,IKEA Chicago,Chicago,United States
+IK-9,IKEA Dallas,Dallas,United States
+IK-10,IKEA Eugene,Eugene,United States
+IK-11,IKEA Harrisburg,Harrisburg,United States
+IK-12,IKEA Houston,Houston,United States
+IK-13,IKEA Kansas City,Kansas City,United States
+IK-14,IKEA Kansas City South,Kansas City,United States
+IK-15,IKEA Los Angeles,Los Angeles,United States
+IK-16,IKEA Louisville,Louisville,United States
+IK-17,IKEA New York,New York,United States
+IK-18,IKEA Philadelphia,Philadelphia,United States
+IK-19,IKEA Portland,Portland,United States
+IK-20,IKEA Puget Sound,Seattle,United States
+IK-21,IKEA San Diego,San Diego,United States
+IK-22,IKEA San Francisco,San Francisco,United States
+IK-23,IKEA Washington DC,Washington DC,United States
+IK-24,IKEA Birmingham,Birmingham,United Kingdom
+IK-25,IKEA Cardiff,Cardiff,United Kingdom
+IK-26,IKEA Liverpool,Liverpool,United Kingdom
+IK-27,IKEA Manchester,Manchester,United Kingdom
+IK-28,IKEA Istanbul,Istanbul,Turkey
+IK-29,IKEA Taipei,Taipei,Taiwan
+IK-30,IKEA Basel,Basel,Switzerland
+IK-31,IKEA Geneva,Geneva,Switzerland
+IK-32,IKEA Gothenburg,Gothenburg,Sweden
+IK-33,IKEA Kallhäll,Stockholm,Sweden
+IK-34,IKEA Malmo,Malmo,Sweden
+IK-35,IKEA Stockholm,Stockholm,Sweden
+IK-36,IKEA Barcelona,Barcelona,Spain
+IK-37,IKEA Madrid,Madrid,Spain
+IK-38,IKEA Seoul,Seoul,South Korea
+IK-39,IKEA Cape Town,Cape Town,South Africa
+IK-40,IKEA Johannesburg,Johannesburg,South Africa
+IK-41,IKEA Ljubljana,Ljubljana,Slovenia
+IK-42,IKEA Bratislava,Bratislava,Slovakia
+IK-43,IKEA Singapore,Singapore,Singapore
+IK-44,IKEA Jeddah,Jeddah,Saudi Arabia
+IK-45,IKEA Riyadh,Riyadh,Saudi Arabia
+IK-46,IKEA Bucharest,Bucharest,Romania
+IK-47,IKEA Lisbon,Lisbon,Portugal
+IK-48,IKEA Poznan,Poznan,Poland
+IK-49,IKEA Warsaw,Warsaw,Poland
+IK-50,IKEA Oslo,Oslo,Norway
+IK-51,IKEA Aalsmeer,Aalsmeer,Netherlands
+IK-52,IKEA Amsterdam,Amsterdam,Netherlands
+IK-53,IKEA Casablanca,Casablanca,Morocco
+IK-54,IKEA Mexico City,Mexico City,Mexico
+IK-55,IKEA Kuala Lumpur,Kuala Lumpur,Malaysia
+IK-56,IKEA Nairobi,Nairobi,Kenya
+IK-57,IKEA Harajuku,Tokyo,Japan
+IK-58,IKEA Tokyo,Tokyo,Japan
+IK-59,IKEA Milan,Milan,Italy
+IK-60,IKEA Jakarta,Jakarta,Indonesia
+IK-61,IKEA New Delhi,Mumbai,India
+IK-62,IKEA Pune,Bengaluru,India
+IK-63,IKEA Reykjavik,Reykjavik,Iceland
+IK-64,IKEA Budapest,Budapest,Hungary
+IK-65,IKEA Berlin,Berlin,Germany
+IK-66,IKEA Bielefeld,Bielefeld,Germany
+IK-67,IKEA Cologne,Cologne,Germany
+IK-68,IKEA Darmstadt,Darmstadt,Germany
+IK-69,IKEA Dusseldorf,Dusseldorf,Germany
+IK-70,IKEA Frankfurt,Frankfurt,Germany
+IK-71,IKEA Hamburg,Hamburg,Germany
+IK-72,IKEA Munich,Munich,Germany
+IK-73,IKEA Bordeaux,Bordeaux,France
+IK-74,IKEA Nice,Nice,France
+IK-75,IKEA Paris,Paris,France
+IK-76,IKEA Helsinki,Helsinki,Finland
+IK-77,IKEA Aalborg,Aalborg,Denmark
+IK-78,IKEA Copenhagen,Copenhagen,Denmark
+IK-79,IKEA Prague,Prague,Czech Republic
+IK-80,IKEA Prague,Prague,Czech Republic
+IK-81,IKEA Bogota,Bogota,Colombia
+IK-82,IKEA Beijing,Beijing,China
+IK-83,IKEA Chengdu,Chengdu,China
+IK-84,IKEA Hong Kong,Hong Kong,China
+IK-85,IKEA Shanghai,Shanghai,China
+IK-86,IKEA Shenzhen,Shenzhen,China
+IK-87,IKEA Santiago,Santiago,Chile
+IK-88,IKEA Calgary,Calgary,Canada
+IK-89,IKEA Edmonton,Edmonton,Canada
+IK-90,IKEA Montreal,Montreal,Canada
+IK-91,IKEA Quebec City,Quebec City,Canada
+IK-92,IKEA Richmond Hill,Richmond Hill,Canada
+IK-93,IKEA Toronto,Toronto,Canada
+IK-94,IKEA Curitiba,Curitiba,Brazil
+IK-95,IKEA Launched in 2019,Sao Paulo,Brazil
+IK-96,IKEA Sao Paulo,Sao Paulo,Brazil
+IK-97,IKEA Antwerpen,Antwerp,Belgium
+IK-98,IKEA Minsk,Minsk,Belarus
+IK-99,IKEA Adelaide,Adelaide,Australia
+IK-100,IKEA Baulkham Hills,Baulkham Hills,Australia
+IK-101,IKEA Brisbane,Brisbane,Australia
+IK-102,IKEA Perth,Perth,Australia
+IK-103,IKEA Sydney,Sydney,Australia
+IK-104,IKEA Buenos Aires,Buenos Aires,Argentina

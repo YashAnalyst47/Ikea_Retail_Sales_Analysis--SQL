@@ -1,0 +1,180 @@
+﻿product_id,product_name,category,subcategory,unit_pice
+P-1,BILLY Bookcase,Furniture,Storage,59.99
+P-2,LACK Coffee Table,Furniture,Surface,29.99
+P-3,MALM Bed Frame,Bedroom,Bedding,199
+P-4,KALLAX Shelf Unit,Furniture,Storage,79.99
+P-5,POÄNG Armchair,Living Room,Seating,89.99
+P-6,FÄRGRIK Dinnerware Set,Kitchen,Dining,24.99
+P-7,MICKE Desk,Furniture,Surface,59.99
+P-8,HEMNES Shoe Cabinet,Furniture,Storage,99.99
+P-9,NORDLI Bed Frame,Bedroom,Bedding,249
+P-10,VARIERA Shelf Insert,Kitchen,Organizers,6.99
+P-11,SKÅDIS Pegboard,Furniture,Organizers,24.99
+P-12,TROFAST Storage Combination,Kids' Furniture,Storage,69.99
+P-13,KIVIK Sofa,Living Room,Seating,699
+P-14,RÅSKOG Utility Cart,Kitchen,Organizers,29.99
+P-15,GRÖNLID Sofa,Living Room,Seating,999
+P-16,ÄPPLARÖ Table,Outdoor,Surface,129
+P-17,LAGAN Oven,Kitchen,Appliances,279
+P-18,IVAR Shelf,Furniture,Storage,45
+P-19,ODGER Chair,Kitchen,Seating,89.99
+P-20,SMÅSTAD Wardrobe,Kids' Furniture,Storage,199
+P-21,VINDUM Rug,Living Room,Decor,129
+P-22,SLÄKT Bed Frame,Kids' Furniture,Bedding,159
+P-23,KUGGIS Box,Furniture,Storage,9.99
+P-24,MELLTORP Table,Kitchen,Surface,49.99
+P-25,EKET Cabinet,Furniture,Storage,35
+P-26,KNISLINGE Sofa,Living Room,Seating,349
+P-27,BESTÅ TV Unit,Living Room,Storage,149
+P-28,FEJKA Artificial Plant,Decor,Accessories,5.99
+P-29,VITTSJÖ Shelf Unit,Furniture,Storage,49.99
+P-30,GERSBY Bookcase,Furniture,Storage,24.99
+P-31,LURVIG Pet Bed,Pets,Bedding,19.99
+P-32,ALEX Drawer Unit,Office,Storage,89
+P-33,HÖGÖN Parasol,Outdoor,Accessories,49.99
+P-34,PAX Wardrobe Frame,Bedroom,Storage,125
+P-35,FLISAT Wall Storage,Kids' Furniture,Storage,14.99
+P-36,NORBERG Wall Table,Furniture,Surface,39.99
+P-37,SOLGUL Crib,Kids' Furniture,Bedding,129
+P-38,LACK Wall Shelf,Furniture,Storage,14.99
+P-39,STOCKHOLM Mirror,Decor,Accessories,99
+P-40,NYMÅNE Pendant Lamp,Lighting,Lighting,34.99
+P-41,JOKKMOKK Dining Set,Kitchen,Dining,149
+P-42,BORGEBY Coffee Table,Living Room,Surface,89.99
+P-43,SVALNÄS Shelf Combination,Furniture,Storage,175
+P-44,SNIGLAR Changing Table,Kids' Furniture,Nursery,59.99
+P-45,FÖRNUFTIG Air Purifier,Electronics,Appliances,59.99
+P-46,RUNNEN Decking,Outdoor,Flooring,24.99
+P-47,JÄLL Laundry Bag,Laundry,Accessories,3.99
+P-48,LOMMARP Cabinet,Living Room,Storage,199
+P-49,STRANDMON Armchair,Living Room,Seating,229
+P-50,GODMORGON Vanity Unit,Bathroom,Storage,199
+P-51,DRÖNA Storage Box,Kids' Furniture,Organizers,3.99
+P-52,SMÅSTAD Loft Bed,Kids' Furniture,Bedding,349
+P-53,NYMÖ Floor Lamp,Lighting,Lighting,69.99
+P-54,NYBODA Side Table,Living Room,Surface,39.99
+P-55,HEKTAR Pendant Lamp,Lighting,Lighting,39.99
+P-56,VARDAGEN Carafe,Kitchen,Accessories,7.99
+P-57,GULLIVER Changing Table,Kids' Furniture,Nursery,79.99
+P-58,RÅVAROR Bench,Living Room,Seating,79.99
+P-59,IKEA PS 2014 Pendant Lamp,Lighting,Lighting,49.99
+P-60,BERGSHULT Shelf,Furniture,Storage,15
+P-61,DRAGAN Bathroom Set,Bathroom,Accessories,9.99
+P-62,BEKANT Desk,Office,Surface,179
+P-63,RIBBA Frame,Decor,Accessories,7.99
+P-64,UPPHETTA Coffee Press,Kitchen,Dining,9.99
+P-65,HEJNE Shelf,Storage,Storage,10
+P-66,KALLAX Insert,Furniture,Storage,5
+P-67,NORDLI Chest of Drawers,Bedroom,Storage,179
+P-68,LINNMON Desk Tabletop,Office,Surface,29.99
+P-69,MARIUS Stool,Living Room,Seating,5.99
+P-70,KVISTBRO Storage Table,Living Room,Surface,69.99
+P-71,FJÄLLBO Shelf Unit,Furniture,Storage,99
+P-72,TINGBY Side Table,Living Room,Surface,39.99
+P-73,VIMLE Sofa,Living Room,Seating,799
+P-74,DALFRED Bar Stool,Kitchen,Seating,39.99
+P-75,RODULF Standing Desk,Office,Surface,249
+P-76,HOL Side Table,Furniture,Surface,59.99
+P-77,KUNGSFORS Rail,Kitchen,Organizers,9.99
+P-78,MANDAL Bed Frame,Bedroom,Bedding,329
+P-79,SLATTUM Upholstered Bed,Bedroom,Bedding,159
+P-80,ÅKERBÄR 3-piece Bistro Set,Outdoor,Seating,99
+P-81,KIVIK Sectional Sofa,Living Room,Seating,999
+P-82,FREDDE Desk,Office,Surface,199
+P-83,LILLÅNGEN Mirror,Bathroom,Accessories,15
+P-84,HÖVÅG Mattress,Bedroom,Bedding,499
+P-85,RÅSKOG Cart,Kitchen,Organizers,29.99
+P-86,BILLY Bookcase,Furniture,Storage,49.99
+P-87,FJÄLLBO Coffee Table,Living Room,Surface,99
+P-88,MÖRBYLÅNDO Wardrobe,Bedroom,Storage,249
+P-89,EKTORP Sofa,Living Room,Seating,599
+P-90,HEMNES Dresser,Bedroom,Storage,179
+P-91,KOLLUND Chair,Living Room,Seating,119
+P-92,HÅLLBAR Shelf,Furniture,Storage,19.99
+P-93,LACK Shelf,Furniture,Storage,19.99
+P-94,JÖMNA Wardrobe,Bedroom,Storage,299
+P-95,PAX Wardrobe,Bedroom,Storage,399
+P-96,LYCKSELE Loveseat,Living Room,Seating,249
+P-97,ANEBODA Wardrobe,Bedroom,Storage,139
+P-98,KLIPPAN Sofa,Living Room,Seating,199
+P-99,LÖVBACKEN Coffee Table,Living Room,Surface,99
+P-100,INREDA Box,Furniture,Storage,12.99
+P-101,HÄLLINGE Shelf,Furniture,Storage,35
+P-102,SAMLA Box,Storage,Storage,4.99
+P-103,RÖNNAN Storage Cabinet,Furniture,Storage,59.99
+P-104,UPPLEVA TV Unit,Living Room,Storage,349
+P-105,KALLAX Shelf,Furniture,Storage,79.99
+P-106,MÖLLEKULLA Cushion,Living Room,Bedding,19.99
+P-107,KNARREVIK Wardrobe,Bedroom,Storage,199
+P-108,RIBBA Frame,Decor,Accessories,5.99
+P-109,SKOGSTA Coffee Table,Living Room,Surface,179
+P-110,ÅRENDAL Dining Table,Kitchen,Dining,299
+P-111,HÄRIG Armchair,Living Room,Seating,89
+P-112,FÖRHÖJA Step Stool,Kitchen,Organizers,29.99
+P-113,BEKANT Desk,Office,Surface,199
+P-114,VINDUM Rug,Living Room,Decor,99
+P-115,DUKTIG Toy Kitchen,Kids' Furniture,Toys,79.99
+P-116,TÄRNABY Desk,Office,Surface,149
+P-117,TERTIAL Work Lamp,Lighting,Lighting,19.99
+P-118,KASSETT Storage Box,Furniture,Storage,7.99
+P-119,BOLMEN Shower Curtain,Bathroom,Accessories,12.99
+P-120,FRÖSÖN Lounge Chair,Living Room,Seating,129
+P-121,GUNNERN Desk,Office,Surface,129
+P-122,ÖVREHAMN Shelf,Furniture,Storage,49
+P-123,NORDMÄRKE Dining Set,Kitchen,Dining,249
+P-124,HEMNES Bed Frame,Bedroom,Bedding,299
+P-125,RÖNNÄS Storage Unit,Furniture,Storage,69
+P-126,SAMLA Storage Box,Storage,Storage,4.99
+P-127,LACK Table,Furniture,Surface,29.99
+P-128,BJÖRKSNÄS Cabinet,Furniture,Storage,199
+P-129,TIDAFORS Chest of Drawers,Bedroom,Storage,349
+P-130,SINNERLIG Rug,Living Room,Decor,149
+P-131,IKEA PS 2014 Sofa,Living Room,Seating,699
+P-132,LIATORP TV Unit,Living Room,Storage,249
+P-133,STUVA Storage Unit,Kids' Furniture,Storage,159
+P-134,FINNSUND Panel Curtains,Decor,Curtains,29.99
+P-135,VÅRDA Storage Box,Furniture,Storage,7.99
+P-136,HEMNES Chest of Drawers,Bedroom,Storage,199
+P-137,VITTSJÖ TV Unit,Living Room,Storage,79.99
+P-138,HEMNES TV Unit,Living Room,Storage,199
+P-139,ULLA Pendant Lamp,Lighting,Lighting,29.99
+P-140,GERTON Desk,Office,Surface,129
+P-141,EKET Wall Cabinet,Furniture,Storage,39
+P-142,STÄLL Shoe Rack,Furniture,Storage,25
+P-143,MALM Desk,Office,Surface,129
+P-144,LIATORP Coffee Table,Living Room,Surface,149
+P-145,HEMNES Desk,Office,Surface,179
+P-146,HEMNES TV Unit,Living Room,Storage,249
+P-147,NORDLI Desk,Office,Surface,199
+P-148,KIVIK Sofa,Living Room,Seating,999
+P-149,TERTIAL Work Lamp,Office,Lighting,19.99
+P-150,FÖRHÖJA Shelf,Furniture,Storage,35
+P-151,EKTORP Chair,Living Room,Seating,159
+P-152,HÅLLBAR Desk,Office,Surface,59.99
+P-153,KOLBJÖRN Storage Box,Furniture,Storage,9.99
+P-154,LACK Coffee Table,Living Room,Surface,29.99
+P-155,FÄRLÖV Sofa,Living Room,Seating,699
+P-156,GIMMICK Desk,Office,Surface,129
+P-157,RÖNNÄS Storage Box,Furniture,Storage,9.99
+P-158,SINNERLIG Storage Basket,Living Room,Storage,29.99
+P-159,MÖRBYLÅNDO Nightstand,Bedroom,Furniture,149
+P-160,LIATORP Bookcase,Furniture,Storage,149
+P-161,MALM Dresser,Bedroom,Storage,149
+P-162,FÖRNUFTIG Fan,Electronics,Appliances,19.99
+P-163,EKET Wall Cabinet,Furniture,Storage,59.99
+P-164,KALLAX Shelf Unit,Furniture,Storage,39.99
+P-165,NYBORG Desk,Office,Surface,179
+P-166,EKET Storage Unit,Furniture,Storage,49.99
+P-167,FJÄLLBO TV Unit,Living Room,Storage,119
+P-168,NORDLI Dresser,Bedroom,Storage,199
+P-169,HEMNES Mirror,Bedroom,Decor,89
+P-170,GUNNERN Storage Cabinet,Furniture,Storage,79.99
+P-171,ALFTA Floor Lamp,Lighting,Lighting,39.99
+P-172,KIVIK Sectional Sofa,Living Room,Seating,899
+P-173,HEMNES Wardrobe,Bedroom,Storage,249
+P-174,RÖNNÄS Basket,Living Room,Storage,19.99
+P-175,BESTÅ TV Unit,Living Room,Storage,179
+P-176,TERTIAL Desk Lamp,Office,Lighting,19.99
+P-177,ÖVREHAMN Storage Cabinet,Furniture,Storage,99
+P-178,ALEX Drawer Unit,Office,Storage,79
+P-179,RÖNNÄS Storage Unit,Furniture,Storage,39.99
