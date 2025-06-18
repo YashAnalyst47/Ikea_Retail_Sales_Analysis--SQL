@@ -87,7 +87,7 @@ This project tackles the following business problems:
 
 ## SQL Queries & Analysis
 
-All SQL queries developed for this project are available in the `queries.sql` file. The queries demonstrate advanced SQL skills, including:
+All SQL queries developed for this project are available in the `Analysis.sql` file. The queries demonstrate advanced SQL skills, including:
 
 - Aggregations with `GROUP BY`.
 - Filtering data using `WHERE` and `HAVING`.
