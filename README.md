@@ -68,7 +68,18 @@ The IKEA Retail Sales SQL Project demonstrates the use of SQL to analyze retail 
 ## Business Problems
 
 This project tackles the following business problems:
-1)`Find the average discount and total revenue generated for each subcategory across all stores.`
+1. `Retrieve all products along with their total sales revenue from completed orders.`
+2. `List all customers and the products they have purchased, showing only those who have ordered more than two products.`
+3. `Find the total amount spent by customers in 'Gujarat' who have ordered products priced greater than 10,000.`
+4. `Find the average order value per customer for orders with a quantity of more than 5.`
+5. `Get the top 5 customers by total spending on 'Accessories'.`
+6. `Retrieve a list of customers whose payment hasn't been successful for their orders.`
+7. `Find the most popular product based on total quantity sold in 2023.`
+8. `List all orders that were cancelled and the reason for cancellation (if available).`
+9. `Retrieve the total quantity of products sold by category in 2022.`
+10. `Get the count of returned orders by shipping provider in 2024.`
+11. `List the products that have never been ordered.`
+12. `List the total sales recorded each month for the year 2024 & ascertain the month with the highest sales.`
 
 ---
 
