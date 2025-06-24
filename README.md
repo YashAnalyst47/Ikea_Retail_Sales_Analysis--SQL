@@ -80,8 +80,7 @@ This project tackles the following business problems:
 10. `List cities with total sales greater than the average sales for their country.`
 11. `Assign ranks for each store based on total revenue.`
 12. `Find the top three stores with the highest sales revenue in each country using the DENSE_RANK function.`
-13. `Find the top three stores with the highest sales revenue in each country using the DENSE_RANK function.`
-14. `Use a correlated subquery to find products whose sales exceeded the average sales of their category.`
+13. `Use a correlated subquery to find products whose sales exceeded the average sales of their category.`
 
 
 ---
