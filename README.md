@@ -68,7 +68,7 @@ The IKEA Retail Sales SQL Project demonstrates the use of SQL to analyze retail 
 ## Business Problems
 
 This project tackles the following business problems:
-`Find the average discount and total revenue generated for each subcategory across all stores.`
+1)`Find the average discount and total revenue generated for each subcategory across all stores.`
 
 ---
 
