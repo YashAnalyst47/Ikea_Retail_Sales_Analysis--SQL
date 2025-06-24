@@ -68,20 +68,7 @@ The IKEA Retail Sales SQL Project demonstrates the use of SQL to analyze retail 
 ## Business Problems
 
 This project tackles the following business problems:
-
-### Easy-Level Queries
-1. Identify the top 5 best-selling products.
-2. List all products that are low in stock (below the reorder level).
-3. Calculate total sales revenue for each store.
-4. Find the top 3 stores with the highest sales in a specific country.
-5. Retrieve sales data for the last 6 months.
-
-### Medium to Hard-Level Queries
-1. Determine the product category contributing the most to revenue.
-2. Identify stores that need inventory replenishment for specific products.
-3. Analyze monthly sales trends for each store over the past year.
-4. Calculate the impact of discounts on total sales revenue.
-5. Rank stores by their overall sales performance using window functions.
+`Find the average discount and total revenue generated for each subcategory across all stores.`
 
 ---
 
